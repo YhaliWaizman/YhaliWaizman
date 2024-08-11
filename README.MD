@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yhali!</h1>
 <h3 align="center">A young Israeli IDF soldier in the shahar unit, currently specializing in devsecops, SRE, while learning backend and DB development.</h3>
 
-    - 🌱 I’m currently learning **TypeScript, Golang, jenkins, circleCI, Terraform.**
+- 🌱 I’m currently learning **TypeScript, Golang, jenkins, circleCI, Terraform.**
 
-    - 👨‍💻 All of my projects are available at [https://github.com/YhaliWaizman?tab=repositories](https://github.com/YhaliWaizman?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/YhaliWaizman?tab=repositories](https://github.com/YhaliWaizman?tab=repositories)
 
-    - 💬 Ask me about **linux system administration, bash, docker, K8S and openshift**
+- 💬 Ask me about **linux system administration, bash, docker, K8S and openshift**
 
-    - 📫 How to reach me **yhaliwa1@gmail.com**
+- 📫 How to reach me **yhaliwa1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
